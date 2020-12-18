@@ -19,7 +19,7 @@ namespace hello_world
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = ("HelloWorld");
+            label1.Text = ("HelloWorld.");
         }
 
         private void label1_Click(object sender, EventArgs e)
